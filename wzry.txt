@@ -1,0 +1,5 @@
+[RoutingRule]
+DOMAIN-SUFFIX,priv.igame.qq.com,PROXY
+USER-AGENT,spark,PROXY 
+
+FINAL, Proxy
